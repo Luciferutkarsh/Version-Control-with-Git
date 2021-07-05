@@ -1,2 +1,2 @@
 # Version Control
-Open Every folder
+Open Every folder and check the readme.md file.
